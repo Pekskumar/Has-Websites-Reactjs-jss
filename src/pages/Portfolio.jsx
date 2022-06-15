@@ -2,7 +2,7 @@ import React from "react";
 import Banner from "../components/Banner";
 import Left_image_component from "../components/Left_image_component";
 import Contactform_component from "../components/Contactform_component";
-// import Flip_hover_data from "../components/Flip_hover_data";
+import Flip_hover_data from "../components/Flip_hover_data";
 import Pricing_component_data from "../components/Pricing_component_data";
 import Client_component_data from "../components/Client_component_data";
 
@@ -29,7 +29,7 @@ const Portfolio = () => {
        imgsrc="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       />
 
-//       <Flip_hover_data />
+
 
       <Pricing_component_data />
 
